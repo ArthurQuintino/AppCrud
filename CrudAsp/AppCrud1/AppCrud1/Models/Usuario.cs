@@ -17,7 +17,7 @@ namespace AppCrud1.Models
 
         [Display(Name = "Nascimento")]
         [Required(ErrorMessage = "O campo Nascimento é obrigatorio")]
-        [DataType(DataType.DateTime)]
+        [DataType(DataType.Date)]
         public DateTime DataNasc { get; set; }
 
     }

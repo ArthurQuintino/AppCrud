@@ -17,63 +17,63 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AppCrud1
 build_property.RootNamespace = AppCrud1
-build_property.ProjectDir = C:\Users\sacol\OneDrive\Área de Trabalho\CrudAsp 2 (1)\CrudAsp\AppCrud1\AppCrud1\
+build_property.ProjectDir = C:\Users\2ds\Desktop\AppCrud\CrudAsp\AppCrud1\AppCrud1\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\sacol\OneDrive\Área de Trabalho\CrudAsp 2 (1)\CrudAsp\AppCrud1\AppCrud1
+build_property.MSBuildProjectDirectory = C:\Users\2ds\Desktop\AppCrud\CrudAsp\AppCrud1\AppCrud1
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/sacol/OneDrive/Área de Trabalho/CrudAsp 2 (1)/CrudAsp/AppCrud1/AppCrud1/Views/Cliente/AtualizarCliente.cshtml]
+[C:/Users/2ds/Desktop/AppCrud/CrudAsp/AppCrud1/AppCrud1/Views/Cliente/AtualizarCliente.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxBdHVhbGl6YXJDbGllbnRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sacol/OneDrive/Área de Trabalho/CrudAsp 2 (1)/CrudAsp/AppCrud1/AppCrud1/Views/Cliente/CadastrarCliente.cshtml]
+[C:/Users/2ds/Desktop/AppCrud/CrudAsp/AppCrud1/AppCrud1/Views/Cliente/CadastrarCliente.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxDYWRhc3RyYXJDbGllbnRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sacol/OneDrive/Área de Trabalho/CrudAsp 2 (1)/CrudAsp/AppCrud1/AppCrud1/Views/Cliente/DetalhesCliente.cshtml]
+[C:/Users/2ds/Desktop/AppCrud/CrudAsp/AppCrud1/AppCrud1/Views/Cliente/DetalhesCliente.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxEZXRhbGhlc0NsaWVudGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sacol/OneDrive/Área de Trabalho/CrudAsp 2 (1)/CrudAsp/AppCrud1/AppCrud1/Views/Cliente/Index.cshtml]
+[C:/Users/2ds/Desktop/AppCrud/CrudAsp/AppCrud1/AppCrud1/Views/Cliente/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sacol/OneDrive/Área de Trabalho/CrudAsp 2 (1)/CrudAsp/AppCrud1/AppCrud1/Views/Home/Index.cshtml]
+[C:/Users/2ds/Desktop/AppCrud/CrudAsp/AppCrud1/AppCrud1/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sacol/OneDrive/Área de Trabalho/CrudAsp 2 (1)/CrudAsp/AppCrud1/AppCrud1/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/2ds/Desktop/AppCrud/CrudAsp/AppCrud1/AppCrud1/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sacol/OneDrive/Área de Trabalho/CrudAsp 2 (1)/CrudAsp/AppCrud1/AppCrud1/Views/Usuario/AtualizarUsuario.cshtml]
+[C:/Users/2ds/Desktop/AppCrud/CrudAsp/AppCrud1/AppCrud1/Views/Usuario/AtualizarUsuario.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xBdHVhbGl6YXJVc3VhcmlvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sacol/OneDrive/Área de Trabalho/CrudAsp 2 (1)/CrudAsp/AppCrud1/AppCrud1/Views/Usuario/CadastrarUsuario.cshtml]
+[C:/Users/2ds/Desktop/AppCrud/CrudAsp/AppCrud1/AppCrud1/Views/Usuario/CadastrarUsuario.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xDYWRhc3RyYXJVc3VhcmlvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sacol/OneDrive/Área de Trabalho/CrudAsp 2 (1)/CrudAsp/AppCrud1/AppCrud1/Views/Usuario/DetalhesUsuario.cshtml]
+[C:/Users/2ds/Desktop/AppCrud/CrudAsp/AppCrud1/AppCrud1/Views/Usuario/DetalhesUsuario.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xEZXRhbGhlc1VzdWFyaW8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sacol/OneDrive/Área de Trabalho/CrudAsp 2 (1)/CrudAsp/AppCrud1/AppCrud1/Views/Usuario/Index.cshtml]
+[C:/Users/2ds/Desktop/AppCrud/CrudAsp/AppCrud1/AppCrud1/Views/Usuario/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sacol/OneDrive/Área de Trabalho/CrudAsp 2 (1)/CrudAsp/AppCrud1/AppCrud1/Views/_ViewImports.cshtml]
+[C:/Users/2ds/Desktop/AppCrud/CrudAsp/AppCrud1/AppCrud1/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sacol/OneDrive/Área de Trabalho/CrudAsp 2 (1)/CrudAsp/AppCrud1/AppCrud1/Views/_ViewStart.cshtml]
+[C:/Users/2ds/Desktop/AppCrud/CrudAsp/AppCrud1/AppCrud1/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sacol/OneDrive/Área de Trabalho/CrudAsp 2 (1)/CrudAsp/AppCrud1/AppCrud1/Views/Shared/_Layout.cshtml]
+[C:/Users/2ds/Desktop/AppCrud/CrudAsp/AppCrud1/AppCrud1/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-jxp2a77l8g
