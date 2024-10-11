@@ -1,0 +1,40 @@
+﻿@model AppCrud1.Models.Usuario
+
+@{
+    ViewData["Title"] = "CadastrarUsuario";
+}
+
+<h1>Cadastrar Usuario</h1>
+
+<h4>Usuario</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="CadastrarUsuario">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="nomeUsu" class="control-label"></label>
+                <input asp-for="nomeUsu" class="form-control" />
+                <span asp-validation-for="nomeUsu" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Cargo" class="control-label"></label>
+                <input asp-for="Cargo" class="form-control" />
+                <span asp-validation-for="Cargo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DataNasc" class="control-label"></label>
+                <input asp-for="DataNasc" class="form-control" />
+                <span asp-validation-for="DataNasc" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Cadastrar" class="btn btn-primary" />
+                <a class="btn btn-secondary" asp-action="Index">Voltar</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

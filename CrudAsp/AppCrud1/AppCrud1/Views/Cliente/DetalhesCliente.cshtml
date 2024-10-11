@@ -1,0 +1,55 @@
+﻿@model AppCrud1.Models.Cliente
+
+@{
+    ViewData["Title"] = "DetalhesCliente";
+}
+
+<h1>DetalhesCliente</h1>
+
+<div>
+    <h4>Cliente</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.IdCli)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.IdCli)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.nomeCli)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.nomeCli)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.emailCli)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.emailCli)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.teleCli)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.teleCli)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.endCli)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.endCli)
+        </dd>
+    </dl>
+</div>
+<br />
+<br />
+<div>
+    <button type="button" class="btn btn-warning">
+        @Html.ActionLink("Editar", "AtualizarCliente", new { Id = Model.IdCli })
+    </button>
+    <button type="button" class="btn btn-secondary">
+        <a asp-action="Index">Voltar</a>
+    </button>
+
+</div>

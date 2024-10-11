@@ -1,0 +1,364 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\CrudAsp 2 (1)\\CrudAsp\\AppCrud1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75BF5D9F-D05C-4E37-A2AD-FA6BF548F794}|AppCrud1\\AppCrud1.csproj|c:\\users\\sacol\\onedrive\\\u00E1rea de trabalho\\crudasp 2 (1)\\crudasp\\appcrud1\\appcrud1\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75BF5D9F-D05C-4E37-A2AD-FA6BF548F794}|AppCrud1\\AppCrud1.csproj|solutionrelative:appcrud1\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75BF5D9F-D05C-4E37-A2AD-FA6BF548F794}|AppCrud1\\AppCrud1.csproj|c:\\users\\sacol\\onedrive\\\u00E1rea de trabalho\\crudasp 2 (1)\\crudasp\\appcrud1\\appcrud1\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75BF5D9F-D05C-4E37-A2AD-FA6BF548F794}|AppCrud1\\AppCrud1.csproj|solutionrelative:appcrud1\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75BF5D9F-D05C-4E37-A2AD-FA6BF548F794}|AppCrud1\\AppCrud1.csproj|c:\\users\\sacol\\onedrive\\\u00E1rea de trabalho\\crudasp 2 (1)\\crudasp\\appcrud1\\appcrud1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75BF5D9F-D05C-4E37-A2AD-FA6BF548F794}|AppCrud1\\AppCrud1.csproj|solutionrelative:appcrud1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75BF5D9F-D05C-4E37-A2AD-FA6BF548F794}|AppCrud1\\AppCrud1.csproj|c:\\users\\sacol\\onedrive\\\u00E1rea de trabalho\\crudasp 2 (1)\\crudasp\\appcrud1\\appcrud1\\repository\\contract\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75BF5D9F-D05C-4E37-A2AD-FA6BF548F794}|AppCrud1\\AppCrud1.csproj|solutionrelative:appcrud1\\repository\\contract\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75BF5D9F-D05C-4E37-A2AD-FA6BF548F794}|AppCrud1\\AppCrud1.csproj|c:\\users\\sacol\\onedrive\\\u00E1rea de trabalho\\crudasp 2 (1)\\crudasp\\appcrud1\\appcrud1\\views\\cliente\\detalhescliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75BF5D9F-D05C-4E37-A2AD-FA6BF548F794}|AppCrud1\\AppCrud1.csproj|solutionrelative:appcrud1\\views\\cliente\\detalhescliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75BF5D9F-D05C-4E37-A2AD-FA6BF548F794}|AppCrud1\\AppCrud1.csproj|c:\\users\\sacol\\onedrive\\\u00E1rea de trabalho\\crudasp 2 (1)\\crudasp\\appcrud1\\appcrud1\\views\\cliente\\cadastrarcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75BF5D9F-D05C-4E37-A2AD-FA6BF548F794}|AppCrud1\\AppCrud1.csproj|solutionrelative:appcrud1\\views\\cliente\\cadastrarcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75BF5D9F-D05C-4E37-A2AD-FA6BF548F794}|AppCrud1\\AppCrud1.csproj|c:\\users\\sacol\\onedrive\\\u00E1rea de trabalho\\crudasp 2 (1)\\crudasp\\appcrud1\\appcrud1\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75BF5D9F-D05C-4E37-A2AD-FA6BF548F794}|AppCrud1\\AppCrud1.csproj|solutionrelative:appcrud1\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75BF5D9F-D05C-4E37-A2AD-FA6BF548F794}|AppCrud1\\AppCrud1.csproj|c:\\users\\sacol\\onedrive\\\u00E1rea de trabalho\\crudasp 2 (1)\\crudasp\\appcrud1\\appcrud1\\repository\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75BF5D9F-D05C-4E37-A2AD-FA6BF548F794}|AppCrud1\\AppCrud1.csproj|solutionrelative:appcrud1\\repository\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75BF5D9F-D05C-4E37-A2AD-FA6BF548F794}|AppCrud1\\AppCrud1.csproj|c:\\users\\sacol\\onedrive\\\u00E1rea de trabalho\\crudasp 2 (1)\\crudasp\\appcrud1\\appcrud1\\repository\\contract\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75BF5D9F-D05C-4E37-A2AD-FA6BF548F794}|AppCrud1\\AppCrud1.csproj|solutionrelative:appcrud1\\repository\\contract\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75BF5D9F-D05C-4E37-A2AD-FA6BF548F794}|AppCrud1\\AppCrud1.csproj|c:\\users\\sacol\\onedrive\\\u00E1rea de trabalho\\crudasp 2 (1)\\crudasp\\appcrud1\\appcrud1\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75BF5D9F-D05C-4E37-A2AD-FA6BF548F794}|AppCrud1\\AppCrud1.csproj|solutionrelative:appcrud1\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75BF5D9F-D05C-4E37-A2AD-FA6BF548F794}|AppCrud1\\AppCrud1.csproj|c:\\users\\sacol\\onedrive\\\u00E1rea de trabalho\\crudasp 2 (1)\\crudasp\\appcrud1\\appcrud1\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75BF5D9F-D05C-4E37-A2AD-FA6BF548F794}|AppCrud1\\AppCrud1.csproj|solutionrelative:appcrud1\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75BF5D9F-D05C-4E37-A2AD-FA6BF548F794}|AppCrud1\\AppCrud1.csproj|c:\\users\\sacol\\onedrive\\\u00E1rea de trabalho\\crudasp 2 (1)\\crudasp\\appcrud1\\appcrud1\\views\\usuario\\detalhesusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75BF5D9F-D05C-4E37-A2AD-FA6BF548F794}|AppCrud1\\AppCrud1.csproj|solutionrelative:appcrud1\\views\\usuario\\detalhesusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75BF5D9F-D05C-4E37-A2AD-FA6BF548F794}|AppCrud1\\AppCrud1.csproj|c:\\users\\sacol\\onedrive\\\u00E1rea de trabalho\\crudasp 2 (1)\\crudasp\\appcrud1\\appcrud1\\views\\cliente\\atualizarcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75BF5D9F-D05C-4E37-A2AD-FA6BF548F794}|AppCrud1\\AppCrud1.csproj|solutionrelative:appcrud1\\views\\cliente\\atualizarcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75BF5D9F-D05C-4E37-A2AD-FA6BF548F794}|AppCrud1\\AppCrud1.csproj|c:\\users\\sacol\\onedrive\\\u00E1rea de trabalho\\crudasp 2 (1)\\crudasp\\appcrud1\\appcrud1\\views\\cliente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75BF5D9F-D05C-4E37-A2AD-FA6BF548F794}|AppCrud1\\AppCrud1.csproj|solutionrelative:appcrud1\\views\\cliente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75BF5D9F-D05C-4E37-A2AD-FA6BF548F794}|AppCrud1\\AppCrud1.csproj|c:\\users\\sacol\\onedrive\\\u00E1rea de trabalho\\crudasp 2 (1)\\crudasp\\appcrud1\\appcrud1\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75BF5D9F-D05C-4E37-A2AD-FA6BF548F794}|AppCrud1\\AppCrud1.csproj|solutionrelative:appcrud1\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75BF5D9F-D05C-4E37-A2AD-FA6BF548F794}|AppCrud1\\AppCrud1.csproj|c:\\users\\sacol\\onedrive\\\u00E1rea de trabalho\\crudasp 2 (1)\\crudasp\\appcrud1\\appcrud1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75BF5D9F-D05C-4E37-A2AD-FA6BF548F794}|AppCrud1\\AppCrud1.csproj|solutionrelative:appcrud1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75BF5D9F-D05C-4E37-A2AD-FA6BF548F794}|AppCrud1\\AppCrud1.csproj|c:\\users\\sacol\\onedrive\\\u00E1rea de trabalho\\crudasp 2 (1)\\crudasp\\appcrud1\\appcrud1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75BF5D9F-D05C-4E37-A2AD-FA6BF548F794}|AppCrud1\\AppCrud1.csproj|solutionrelative:appcrud1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75BF5D9F-D05C-4E37-A2AD-FA6BF548F794}|AppCrud1\\AppCrud1.csproj|c:\\users\\sacol\\onedrive\\\u00E1rea de trabalho\\crudasp 2 (1)\\crudasp\\appcrud1\\appcrud1\\views\\usuario\\atualizarusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75BF5D9F-D05C-4E37-A2AD-FA6BF548F794}|AppCrud1\\AppCrud1.csproj|solutionrelative:appcrud1\\views\\usuario\\atualizarusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75BF5D9F-D05C-4E37-A2AD-FA6BF548F794}|AppCrud1\\AppCrud1.csproj|c:\\users\\sacol\\onedrive\\\u00E1rea de trabalho\\crudasp 2 (1)\\crudasp\\appcrud1\\appcrud1\\views\\usuario\\cadastrarusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75BF5D9F-D05C-4E37-A2AD-FA6BF548F794}|AppCrud1\\AppCrud1.csproj|solutionrelative:appcrud1\\views\\usuario\\cadastrarusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75BF5D9F-D05C-4E37-A2AD-FA6BF548F794}|AppCrud1\\AppCrud1.csproj|c:\\users\\sacol\\onedrive\\\u00E1rea de trabalho\\crudasp 2 (1)\\crudasp\\appcrud1\\appcrud1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{75BF5D9F-D05C-4E37-A2AD-FA6BF548F794}|AppCrud1\\AppCrud1.csproj|solutionrelative:appcrud1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\CrudAsp 2 (1)\\CrudAsp\\AppCrud1\\AppCrud1\\Repository\\Contract\\IClienteRepository.cs",
+              "RelativeDocumentMoniker": "AppCrud1\\Repository\\Contract\\IClienteRepository.cs",
+              "ToolTip": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\CrudAsp 2 (1)\\CrudAsp\\AppCrud1\\AppCrud1\\Repository\\Contract\\IClienteRepository.cs",
+              "RelativeToolTip": "AppCrud1\\Repository\\Contract\\IClienteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T01:51:24.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\CrudAsp 2 (1)\\CrudAsp\\AppCrud1\\AppCrud1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AppCrud1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\CrudAsp 2 (1)\\CrudAsp\\AppCrud1\\AppCrud1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AppCrud1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T01:11:48.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\CrudAsp 2 (1)\\CrudAsp\\AppCrud1\\AppCrud1\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "AppCrud1\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\CrudAsp 2 (1)\\CrudAsp\\AppCrud1\\AppCrud1\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "AppCrud1\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAowAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T21:18:28.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\CrudAsp 2 (1)\\CrudAsp\\AppCrud1\\AppCrud1\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "AppCrud1\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\CrudAsp 2 (1)\\CrudAsp\\AppCrud1\\AppCrud1\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "AppCrud1\\Controllers\\ClienteController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAYwCQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T02:00:37.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DetalhesCliente.cshtml",
+              "DocumentMoniker": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\CrudAsp 2 (1)\\CrudAsp\\AppCrud1\\AppCrud1\\Views\\Cliente\\DetalhesCliente.cshtml",
+              "RelativeDocumentMoniker": "AppCrud1\\Views\\Cliente\\DetalhesCliente.cshtml",
+              "ToolTip": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\CrudAsp 2 (1)\\CrudAsp\\AppCrud1\\AppCrud1\\Views\\Cliente\\DetalhesCliente.cshtml",
+              "RelativeToolTip": "AppCrud1\\Views\\Cliente\\DetalhesCliente.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T03:08:46.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CadastrarCliente.cshtml",
+              "DocumentMoniker": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\CrudAsp 2 (1)\\CrudAsp\\AppCrud1\\AppCrud1\\Views\\Cliente\\CadastrarCliente.cshtml",
+              "RelativeDocumentMoniker": "AppCrud1\\Views\\Cliente\\CadastrarCliente.cshtml",
+              "ToolTip": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\CrudAsp 2 (1)\\CrudAsp\\AppCrud1\\AppCrud1\\Views\\Cliente\\CadastrarCliente.cshtml",
+              "RelativeToolTip": "AppCrud1\\Views\\Cliente\\CadastrarCliente.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T02:05:38.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\CrudAsp 2 (1)\\CrudAsp\\AppCrud1\\AppCrud1\\Repository\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "AppCrud1\\Repository\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\CrudAsp 2 (1)\\CrudAsp\\AppCrud1\\AppCrud1\\Repository\\UsuarioRepository.cs",
+              "RelativeToolTip": "AppCrud1\\Repository\\UsuarioRepository.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAA9wIIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T21:07:32.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\CrudAsp 2 (1)\\CrudAsp\\AppCrud1\\AppCrud1\\Repository\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "AppCrud1\\Repository\\ClienteRepository.cs",
+              "ToolTip": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\CrudAsp 2 (1)\\CrudAsp\\AppCrud1\\AppCrud1\\Repository\\ClienteRepository.cs",
+              "RelativeToolTip": "AppCrud1\\Repository\\ClienteRepository.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAUwCwAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T01:53:51.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\CrudAsp 2 (1)\\CrudAsp\\AppCrud1\\AppCrud1\\Repository\\Contract\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "AppCrud1\\Repository\\Contract\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\CrudAsp 2 (1)\\CrudAsp\\AppCrud1\\AppCrud1\\Repository\\Contract\\IUsuarioRepository.cs",
+              "RelativeToolTip": "AppCrud1\\Repository\\Contract\\IUsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T21:05:29.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\CrudAsp 2 (1)\\CrudAsp\\AppCrud1\\AppCrud1\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "AppCrud1\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\CrudAsp 2 (1)\\CrudAsp\\AppCrud1\\AppCrud1\\Models\\Usuario.cs",
+              "RelativeToolTip": "AppCrud1\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T20:59:33.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\CrudAsp 2 (1)\\CrudAsp\\AppCrud1\\AppCrud1\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "AppCrud1\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\CrudAsp 2 (1)\\CrudAsp\\AppCrud1\\AppCrud1\\Models\\Cliente.cs",
+              "RelativeToolTip": "AppCrud1\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T01:45:43.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DetalhesUsuario.cshtml",
+              "DocumentMoniker": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\CrudAsp 2 (1)\\CrudAsp\\AppCrud1\\AppCrud1\\Views\\Usuario\\DetalhesUsuario.cshtml",
+              "RelativeDocumentMoniker": "AppCrud1\\Views\\Usuario\\DetalhesUsuario.cshtml",
+              "ToolTip": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\CrudAsp 2 (1)\\CrudAsp\\AppCrud1\\AppCrud1\\Views\\Usuario\\DetalhesUsuario.cshtml",
+              "RelativeToolTip": "AppCrud1\\Views\\Usuario\\DetalhesUsuario.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T11:31:37.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AtualizarCliente.cshtml",
+              "DocumentMoniker": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\CrudAsp 2 (1)\\CrudAsp\\AppCrud1\\AppCrud1\\Views\\Cliente\\AtualizarCliente.cshtml",
+              "RelativeDocumentMoniker": "AppCrud1\\Views\\Cliente\\AtualizarCliente.cshtml",
+              "ToolTip": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\CrudAsp 2 (1)\\CrudAsp\\AppCrud1\\AppCrud1\\Views\\Cliente\\AtualizarCliente.cshtml",
+              "RelativeToolTip": "AppCrud1\\Views\\Cliente\\AtualizarCliente.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T02:58:02.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\CrudAsp 2 (1)\\CrudAsp\\AppCrud1\\AppCrud1\\Views\\Cliente\\Index.cshtml",
+              "RelativeDocumentMoniker": "AppCrud1\\Views\\Cliente\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\CrudAsp 2 (1)\\CrudAsp\\AppCrud1\\AppCrud1\\Views\\Cliente\\Index.cshtml",
+              "RelativeToolTip": "AppCrud1\\Views\\Cliente\\Index.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwDgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T02:20:06.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\CrudAsp 2 (1)\\CrudAsp\\AppCrud1\\AppCrud1\\Views\\Usuario\\Index.cshtml",
+              "RelativeDocumentMoniker": "AppCrud1\\Views\\Usuario\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\CrudAsp 2 (1)\\CrudAsp\\AppCrud1\\AppCrud1\\Views\\Usuario\\Index.cshtml",
+              "RelativeToolTip": "AppCrud1\\Views\\Usuario\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T01:24:02.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\CrudAsp 2 (1)\\CrudAsp\\AppCrud1\\AppCrud1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AppCrud1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\CrudAsp 2 (1)\\CrudAsp\\AppCrud1\\AppCrud1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AppCrud1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAACOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T21:25:18.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\CrudAsp 2 (1)\\CrudAsp\\AppCrud1\\AppCrud1\\Program.cs",
+              "RelativeDocumentMoniker": "AppCrud1\\Program.cs",
+              "ToolTip": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\CrudAsp 2 (1)\\CrudAsp\\AppCrud1\\AppCrud1\\Program.cs",
+              "RelativeToolTip": "AppCrud1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T21:19:18.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CadastrarUsuario.cshtml",
+              "DocumentMoniker": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\CrudAsp 2 (1)\\CrudAsp\\AppCrud1\\AppCrud1\\Views\\Usuario\\CadastrarUsuario.cshtml",
+              "RelativeDocumentMoniker": "AppCrud1\\Views\\Usuario\\CadastrarUsuario.cshtml",
+              "ToolTip": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\CrudAsp 2 (1)\\CrudAsp\\AppCrud1\\AppCrud1\\Views\\Usuario\\CadastrarUsuario.cshtml",
+              "RelativeToolTip": "AppCrud1\\Views\\Usuario\\CadastrarUsuario.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T01:21:24.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AtualizarUsuario.cshtml",
+              "DocumentMoniker": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\CrudAsp 2 (1)\\CrudAsp\\AppCrud1\\AppCrud1\\Views\\Usuario\\AtualizarUsuario.cshtml",
+              "RelativeDocumentMoniker": "AppCrud1\\Views\\Usuario\\AtualizarUsuario.cshtml",
+              "ToolTip": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\CrudAsp 2 (1)\\CrudAsp\\AppCrud1\\AppCrud1\\Views\\Usuario\\AtualizarUsuario.cshtml",
+              "RelativeToolTip": "AppCrud1\\Views\\Usuario\\AtualizarUsuario.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T02:08:37.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\CrudAsp 2 (1)\\CrudAsp\\AppCrud1\\AppCrud1\\appsettings.json",
+              "RelativeDocumentMoniker": "AppCrud1\\appsettings.json",
+              "ToolTip": "C:\\Users\\sacol\\OneDrive\\\u00C1rea de Trabalho\\CrudAsp 2 (1)\\CrudAsp\\AppCrud1\\AppCrud1\\appsettings.json",
+              "RelativeToolTip": "AppCrud1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-03T20:57:33.579Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

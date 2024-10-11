@@ -1,0 +1,66 @@
+﻿@model IEnumerable<AppCrud1.Models.Cliente>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.IdCli)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.nomeCli)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.emailCli)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.teleCli)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.endCli)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (Cliente cliente in Model) {
+            <tr>
+                <td>
+                    @cliente.IdCli
+                </td>
+                <td>
+                    @cliente.nomeCli
+                </td>
+                <td>
+                    @cliente.emailCli
+                </td>
+                <td>
+                    @cliente.teleCli
+                </td>
+                <td>
+                    @cliente.endCli
+                </td>
+                <td>
+                    <button type="button" class="btn btn-warning">
+                        @Html.ActionLink("Editar", "AtualizarCliente", new { id = cliente.IdCli }) |
+                    </button>
+                    <button type="button" class="btn btn-secondary">
+                        @Html.ActionLink("Detalhes", "DetalhesCliente", new { id = cliente.IdCli})
+                    </button>
+                    <button type="button" class="btn btn-danger">
+                        @Html.ActionLink("Excluir", "ExcluirCliente", new { id = cliente.IdCli },
+                                 new { onclick = "return confirm('Deseja Realmente desativar?');" })
+                    </button>
+                </td>
+            </tr>
+}
+    </tbody>
+</table>

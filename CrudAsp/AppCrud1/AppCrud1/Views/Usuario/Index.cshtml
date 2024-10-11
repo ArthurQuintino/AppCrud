@@ -1,0 +1,60 @@
+﻿@model IEnumerable<AppCrud1.Models.Usuario>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.IdUsu)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.nomeUsu)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cargo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DataNasc)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (Usuario usuario in Model) {
+        <tr>
+            <td>
+                @usuario.IdUsu
+            </td>
+            <td>
+                @usuario.nomeUsu
+            </td>
+            <td>
+                @usuario.Cargo
+            </td>
+            <td>
+                @usuario.DataNasc.ToString("dd/MM/yyyy")
+            </td>
+            <td>
+                <button type="button" class="btn btn-warning">
+                        @Html.ActionLink("Editar", "AtualizarUsuario", new { id = usuario.IdUsu }) |
+                </button>
+                <button type="button" class="btn btn-secondary">                    
+                        @Html.ActionLink("Detalhes", "DetalhesUsuario", new { id = usuario.IdUsu }) 
+                </button>
+                <button type="button" class="btn btn-danger">
+                        @Html.ActionLink("Excluir", "ExcluirUsuario", new { id = usuario.IdUsu },
+                                 new { onclick = "return confirm('Deseja Realmente desativar?');" })
+                </button>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
